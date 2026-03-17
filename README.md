@@ -1,6 +1,6 @@
-# Real Estate Price Predictor
+# House Price Predictor
 
-A web application for predicting real estate prices with location-based features.
+House Price Prediction using Machine Learning predicts property prices based on features like area, bedrooms, and bathrooms. It uses Linear Regression and Random Forest algorithms to analyze data and estimate prices. The models are trained on historical housing data and compared to find the most accurate prediction method.
 
 ## Features
 
@@ -38,7 +38,6 @@ A web application for predicting real estate prices with location-based features
 - The app will show the address and location type
 - Get price predictions from different models
 - View the dashboard for data visualizations
-- Compare algorithm performance
 
 ## Enhancements
 
